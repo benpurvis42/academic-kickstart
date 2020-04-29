@@ -3,11 +3,11 @@ title: 'Three pillars of sustainability: in search of conceptual origins'
 author: Ben Purvis
 date: '2018-09-03'
 slug: three-pillars-of-sustainability
-categories:
+categories: [ "Publication"]
 
-tags:
+tags: ["Sustainability", "Three pillars", "Historical"]
 
-authors:
+authors: [" Ben Purvis", " Yong Mao", "Darren Robinson"]
 doi: 'https://doi.org/10.1007/s11625-018-0627-5'
 publishDate: '2020-29-04T00:17:00+01:00'
 publication_types:
@@ -31,4 +31,6 @@ image:
   preview_only: no
 projects: []
 slides: ''
+
+
 ---
