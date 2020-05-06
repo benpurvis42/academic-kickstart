@@ -8,7 +8,7 @@ categories: [ "Publication"]
 tags: ["Sustainability", "Three pillars", "Historical"]
 
 authors: [" Ben Purvis", " Yong Mao", "Darren Robinson"]
-doi: 'https://doi.org/10.1007/s11625-018-0627-5'
+doi: '10.1007/s11625-018-0627-5'
 publishDate: '2020-29-04T00:17:00+01:00'
 publication_types:
   - '2'
