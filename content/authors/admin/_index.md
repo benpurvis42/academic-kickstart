@@ -52,6 +52,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Ben_Purvis
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-8883-5472
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/benpurvis42
